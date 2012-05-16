@@ -282,6 +282,9 @@ b {
 .white {
   color: white;
 }
+.grey {
+	color: #666;
+}
 
 a {
   color: rgb(0, 102, 204);
@@ -332,6 +335,10 @@ h2 {
   letter-spacing: -2px;
 
   color: rgb(51, 51, 51);
+}
+
+h2.bigger{
+	font-size: 56px;
 }
 
 h2.bottom{
