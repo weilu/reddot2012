@@ -110,6 +110,12 @@ body {
 
   background-color: white;  
 }
+
+.slides.template-io2011.nologo > article:not(.nobackground):not(.biglogo){
+  background: url(../images/bar.png) 0 600px repeat-x;
+  background-color: white;
+}
+
 .slides.layout-widescreen > article:not(.nobackground):not(.biglogo),
 .slides.layout-faux-widescreen > article:not(.nobackground):not(.biglogo) {
   background-position-x: 0, 840px;
@@ -346,6 +352,10 @@ h2.bottom{
 	bottom: 150px;
 	margin: 0;
 	padding-right: 40px;
+}
+
+h2.single{
+  margin-top: 250px;
 }
 
 h3 {
@@ -639,4 +649,34 @@ article.much_smaller q::after {
 .prettyprint .dec, 
 .prettyprint .var { /* a declaration; a variable name */
   color: rgb(127, 0, 127);
-}  
+} 
+
+.logo{
+  max-height: 200px;
+  max-width: 500px;
+}
+
+.fill img{
+  width: 100%;
+}
+
+.center{
+  text-align: center;
+}
+
+img.right{
+  float: right;
+  max-width: 400px;
+  max-height: 400px;
+}
+
+img.round{
+  border-radius: 10px;
+  -o-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+
+  -moz-box-shadow: 2px 2px 8px rgba(0,0,0,.65);
+  -webkit-box-shadow: 2px 2px 8px rgba(0,0,0,.65);
+  box-shadow: 2px 2px 8px rgba(0,0,0,.65);
+}

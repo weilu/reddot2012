@@ -1,23 +1,8 @@
-A Journey into Pair Programming
-Wei
-@luweidewei
-Me
-Information Systems - NUS
-Exchange - University of Waterloo
-Internship - Rocket Fuel Inc.
-Part-time - Stanford University
-Full-time - Pivotal Labs / New Context
-
-Undergraduate in information systems
-during which I spent a winter term on exchange in UW, Canada
-afterwards, I went on to do a year-long internship as a java developer with RFI in Cali while studying part-time in Stanford.
-Then I went back to NUS to complete my degree. Joined Pivotal labs SG fresh out of college, 1 month later Pivotal SG got acquired by DG and became part of the new company called NC. Up until now, I've been with the company for exactly 6 months.
-
-Here are some simple facts I gathered before I started working full-time
+I want to start with some simple facts I gathered.
 
 UW: Coding is fun!
 
-One of the courses I took was User Interface. The professor liked to give difficult assignments in different languages, some of which are optional. And since outside it was freezing and snowy, I've got nothing better to do so I ended up spending many hours in programming labs working on those problems. It was satisfying when I worked them out.And during the process I discovered that coding is something I truly enjoy.
+I spent a winter term on exchange in UW, Canada. One of the courses I took was User Interface. The professor liked to give difficult assignments in different languages, some of which are optional. And since outside it was freezing and snowy, I've got nothing better to do so I ended up spending many hours in programming labs working on those problems. It was satisfying when I worked them out.And during the process I discovered that coding is something I truly enjoy.
 
 NUS: Sharing is a great way to learn!
 
@@ -25,10 +10,11 @@ After I got back to NUS from the exchange program, I took up a TA job to teach p
 
 Rocket Fuel: Freedom is nice!
 
+I did a year-long internship as a java developer with RFI in the bay area.
 One of the best things about working for RFI as an engineer is that you get to come to work whenever you want as long as you get things done.
 
 Stanford: Engineers are precious!
-
+While I was interning in RFI, I was also studying part-time in stanford.
 Startup seminars are where entrepreneurs hunt for engineers. The moment you reveal your software engineer identity, you get pitched like a VC and overwhelmed by name cards. So.. engineers are in demand.
 
 Why not?
@@ -82,13 +68,13 @@ Get a hold of the keyboard
 
 Sometime an experienced pair wouldn't give up the keyboard because it simply takes too long for the newbie to make the test pass, or when the experienced pair is just too eager to correct mistakes. It is important to get a hold of the keyboard because I need to practice what I learned. So many times I find myself suddenly understand something as I type things out. Also because I wanted to be a useful pair who can help keep the Jedi master honest someday.
 
-At first I didn't get to type because I didn't know what to type, then I learnt to think about the solution while a test is being written. Then I thought I knew how to make a test pass, but I ended up losing the keyboard after typing 2 lines because I made stupid mistakes or trying to implement my own utility method because I didn't know the framework already has one. Then I got ragefaced at myself so after work I worked on my side projects to practice, and also read through, for example, the backbone and underscore documentations. (And eventually winning dollar bets off things like how a method should be called). After a while I found myself more confident, capable at the keyboard. Here are some tips on how to get a hold of the keyboard:
+At first I didn't get to type because I didn't know what to type, then I learnt to think about the solution while a test is being written. Then I thought I knew how to make a test pass, but I ended up losing the keyboard after typing 2 lines because I made stupid mistakes or trying to implement my own utility method because I didn't know the framework already has one. Then I got ragefaced at myself so after work I worked on my side projects to practice, and also read through, for example, the whole backbone and underscore documentations. After a while I found myself more confident and capable at the keyboard. That's when I finally started to have a chance with the keyboard. Here are some tips on how to get a hold of the keyboard:
 
 Ask for keyboard nicely: Can I try to make this pass please?
 Ask for keyboard: Hold on a minute, let me think about it.
 Demand for keyboard: Don't touch the keyboard! Let me do this first. I will refactor after I make it green!
 
-In short, pairing between a newbie and a jedi master is a mutually beneficial relationship - The newbie gets to learn a lot faster than being left along. During the first weeks of pairing, I found myself exhausted after work due to the overwhelming amount of information I learnt during the day. As for Jedi master, he/she still gets to be more productive pairing with a newbie, because very often, the newbie does little nice things like catching typos and remembering variable names for them.
+In short, pairing between a newbie and a jedi master is a mutually beneficial relationship - The newbie gets to learn a lot faster than being left along. During the first weeks of pairing, I found myself exhausted after work due to the overwhelming amount of information I learnt during the day. As for Jedi master, he/she still gets to be more productive pairing with a newbie, because very often, the newbie does little nice things like catching typos and remembering variable names for them. Also having someone around constantly questioning about why do you what do you makes the jedi master rethink about routine approaches.
 
 Chapter 2: Your Doppelganger
 Someone who's like you: been doing RoR and pairing for a couple months - sharing similar level of understanding of the frameworks and the practices.
@@ -109,7 +95,7 @@ I learned to come to terms with the fact that there are good pairing days and th
 Pairing between two relatively new developers is a collaborative learning and exploring relationship. As compared to soloing, there's is less frustration for both developers when they try to figure things out together. That results in happier developers and eventually better sustainability.
 
 Chapter 3: Undercover
-Undercovers are secret law enforcement agents - They may not know as much about the project you are working on as you do; but they know all about TDD, best practices, design patterns and antipatterns. And they'd like to make sure that you abide the laws.
+Undercovers are secret law enforcement agents - They may not know as much about the project as you do; but they know all about TDD, best practices, design patterns and antipatterns. And they'd like to make sure that you abide the laws.
 
 Be ready to be persuaded (if they are nice cops)
 Be ready to sharpen your understanding of laws, contracts & best practices
@@ -120,6 +106,8 @@ Pairing in general makes sure that you can't just go with 'hey i want to code th
 
 An undercover pair may tell you that you can't do something because it's anti-pattern. If you search through the list of antipatterns in your head and couldn't find it, and you do feel strong about your solution, express your concern and ask how he/she suggest it can be addressed with better design.
 
+There is likely to be some arguments going back and forth, like when you try not to test like a TSA, your pair insists on red green refactor. Or when you try to actually implement a feature your pair wouldn't let you because simply by returning false will make the tests pass. It is important to stay positive and focus on the task, rather than making it personal.
+
 In case neither of the pair is able to persuade the other, then just go with one of the ideas (whoever is driving or flip a coin). Let the code speak for itself. Don't be afraid of making mistakes or going the wrong way. Have faith that the pattern will emerge.
 
 Bonus Chapter: Best Friend
@@ -129,5 +117,12 @@ True story
 Moments when you are understood before you even start trying to explain yourself, when both of you spot the same edge case at the same time, when you stop typing to sneeze you pair then just finishes typing the rest of the line, those are moments that make a good pairing day great.
 
 Two is better than one
+In summary, pairing is great for knowledge transfer, keeping each other honest and focused. Pairing if done right leads to better code and happier coders.
+
+Do it like you mean it
+Certain things make pairing easier: like if you enjoy coding, likes sharing and/or you happened to join a companying that has a pairing culture like pivotal or NC. But if some of those are missing, like you were to start trying pairing with someone who has never done pairing before or someone as new as you, it could take some time to get used to it. There will be bad days, reflect and aim to make the next day a little better. Hang in there for at least couple months. You maybe surprised by the double rainbow after the rain.
+
 Pair exchange
 See for yourself you shall
+
+Hacking session hosted by NC where anyone who's interested in pairing can drop by after work. There will normally be a couple NC engineers hanging around with their side projects written on the white board. People are encouraged to bring their own projects as well. Then we'll pair up and code. Also food and drinks provided =)
