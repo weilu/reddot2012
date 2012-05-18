@@ -106,7 +106,7 @@ Pairing in general makes sure that you can't just go with 'hey i want to code th
 
 An undercover pair may tell you that you can't do something because it's anti-pattern. If you search through the list of antipatterns in your head and couldn't find it, and you do feel strong about your solution, express your concern and ask how he/she suggest it can be addressed with better design.
 
-There is likely to be some arguments going back and forth, like when you try not to test like a TSA, your pair insists on red green refactor. Or when you try to actually implement a feature your pair wouldn't let you because simply by returning false will make the tests pass. It is important to stay positive and focus on the task, rather than making it personal.
+There are likely to be some arguments going back and forth, like when you try not to test like a TSA, your pair insists on red green refactor. Or when you try to actually implement a feature your pair wouldn't let you because simply by returning false will make the tests pass. It is important to stay positive and focus on the task, rather than making it personal.
 
 In case neither of the pair is able to persuade the other, then just go with one of the ideas (whoever is driving or flip a coin). Let the code speak for itself. Don't be afraid of making mistakes or going the wrong way. Have faith that the pattern will emerge.
 
