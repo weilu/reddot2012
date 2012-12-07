@@ -101,7 +101,7 @@ When googling type of research is required, I noticed it is most effective to co
 Pairing with your doppelganger is a collaborative learning and exploring relationship. As compared to soloing, there's is less frustration for both developers when they try to figure things out together. (And it help to identify real hard problems, because after working on a problem for a really long time and still couldn't figure it out it's an indication of the problem being hard rather than you having to blame yourself for being stupid.) That results in happier developers and eventually better sustainability.
 
 Chapter 3: Undercover
-Undercovers are secret law enforcement agents - They may not know as much about the project as you do or even come from a different technology stack; but they know all about TDD, best practices, design patterns and antipatterns. And they'd like to make sure that you abide the laws. (title -> undercover agent)
+Undercovers are secret law enforcement agents - They may not know as much about the project as you do or even come from a different technology stack; but they know all about TDD, best practices, design patterns and antipatterns. And they'd like to make sure that you abide the laws. 
 
 Be ready to be persuaded
 Be ready to sharpen your understanding of laws, contracts & best practices
@@ -134,4 +134,4 @@ Two is better than one
 In summary, pairing is great for knowledge transfer, keeping each other honest and focused. Pairing if done right leads to better code and happier coders.
 
 Do it like you mean it
-Certain things make pairing easier: like if you enjoy coding, likes sharing and/or you happened to join a companying that has a pairing culture like pivotal or NC. But if some of those are missing, like you were to start trying pairing with someone who has never done pairing before or someone as new as you, it could take some time to get used to it. There will be bad days, reflect and aim to make the next day a little better. Hang in there for at least couple months. You maybe surprised by the double rainbow after the rain.
+Certain things make pairing easier: like if you enjoy coding, likes sharing and you happened to join a companying that has a pairing culture like pivotal or Neo. But if some of those are missing, like you were to start trying pairing with someone who has never done pairing before or someone as new as you, it could take some time to get used to it. There will be bad days, reflect and aim to make the next day a little better. Don't give up too quickly, hang in there for at least couple months. You maybe surprised by the double rainbow after the rain.
