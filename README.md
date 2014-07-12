@@ -1,4 +1,4 @@
-reddot2012
+A Journey into Pair Programming
 ==========
 
 Presentation slides for my talk "A Journey into Pair Programming"
