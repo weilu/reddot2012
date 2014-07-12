@@ -1,7 +1,7 @@
 A Journey into Pair Programming
 ==========
 
-Presentation slides for my talk "A Journey into Pair Programming"
+Presented at Reddot Ruby Conf 2012 and RubyConf Taiwan 2012.
 
 ### Slides
 
